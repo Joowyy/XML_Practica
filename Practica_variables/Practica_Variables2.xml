@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fichas [
+    <!ENTITY poblacion "Tejeda de Tietar">
+    <!ENTITY provincia SYSTEM "provincia.txt">
+    <!ENTITY detalle SYSTEM "ficha.xml">
+]>
+<fichas>
+    <poblacion>&poblacion;</poblacion>
+    <provincia>&provincia;</provincia>
+    <detalle>&detalle;</detalle>
+</fichas>

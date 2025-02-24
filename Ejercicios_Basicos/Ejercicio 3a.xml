@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<agenda>
+    <entrada>
+        <nombre-completo>Marta Elena Tablada</nombre-completo>
+    </entrada>
+</agenda>
+<!--El error estaba en que no cerraba la llave de '<nombre-completo>'-->

@@ -1,0 +1,18 @@
+<!-- Crea un documento XML que represente una lista de estudiantes y define un DTD para validar la estructura. -->
+<!-- El DTD debe asegurar que cada estudiante tenga un nombre, una edad y una calificacion -->
+
+<!DOCTYPE estudiantes [
+    <!ELEMENT estudiantes (estudiante+)>
+    <!ELEMENT estudiante (nombre, edad, calificacion)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT edad (#PCDATA)>
+    <!ELEMENT calificacion (#PCDATA)>
+]>
+
+    <estudiantes>
+        <estudiante>
+            <nombre>Juan</nombre>
+            <edad>19</edad>
+            <calificacion>6.85</calificacion>
+        </estudiante>
+    </estudiantes>

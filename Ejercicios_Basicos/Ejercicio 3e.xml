@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pelicula>
+    <titulo>Con faldas y a lo loco</titulo>
+    <director>Billy Wilder</director>
+</pelicula>
+<pelicula2>
+    <director>Leo McCarey</director>
+    <titulo>Sopa de ganso</titulo>
+</pelicula2> 
+<autor>barto</autor>
+<!--El error esta en la última línea donde esta puesto mal una '/'-->

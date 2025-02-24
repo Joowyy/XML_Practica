@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fichas [
+    <!ENTITY poblacion "Tejeda de Tietar, Cáceres">
+]>
+<fichas>
+    <ficha>
+        <empresa nombre="Tractores Toledo"></empresa>
+        <direccion>&poblacion;</direccion>
+    </ficha>
+    <ficha>
+        <empresa nombre="Congelados Manolo"></empresa>
+        <direccion>&poblacion;</direccion>
+    </ficha>
+</fichas>
