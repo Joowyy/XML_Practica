@@ -1,0 +1,10 @@
+nombre: "Mar\xEDa Garc\xEDa"
+edad: 25
+es_estudiante: true
+cursos:
+- Literatura
+- "F\xEDsica"
+- "Qu\xEDmica"
+direccion:
+  calle: Avenida Real 456
+  ciudad: Barcelona
